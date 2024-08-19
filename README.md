@@ -18,8 +18,8 @@ Mi objetivo es integrar el poder de la ciencia de datos con el conocimiento en m
 # 📈 Proyectos destacados
 En mi GitHub, puedes explorar algunos de los proyectos en los que he trabajado:
 
-Proyecto 1: Desarrollo de un modelo de machine learning para recomendaciones de películas mediante analisis de sentimiento
-Proyecto 2: Creación de un dashboard interactivo para entender el contexto de la cobertura de internet a nivel del territorio nacional argentino
+Proyecto 1: Desarrollo de un modelo de machine learning para recomendaciones de películas mediante analisis de sentimiento.
+Proyecto 2: Creación de un dashboard interactivo para entender el contexto de la cobertura de internet a nivel del territorio nacional argentino.
 Proyecto 3: Automatización de tareas para el desarrollo de un Análisis de sentimiento en reseñas de clientes de plataformas como Google Maps y Yelp con el fin de brindar un sistema de recomendaciones de negocios en Estados Unidos. Diseño y construcción de un Dashboard interactivo para los dueños de los negocios que busquen conocer sus indicadores de rendimiento como también comparar el mundo de la categoría en que se encuentran.
 
 # 💼 ¿Colaboramos?
