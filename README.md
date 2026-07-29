@@ -1,33 +1,51 @@
-# 👷‍♂️ Bienvenido a mi perfil de GitHub
-## 👋 Sobre mí
-¡Hola! Soy Fabián Rodríguez, un profesional apasionado por la tecnología y la innovación, con un enfoque especial en la minería y la ciencia de datos. A lo largo de mi formación y experiencia, he desarrollado un profundo interés en cómo el análisis de datos, el aprendizaje automático y la inteligencia artificial pueden transformar sectores tradicionales como la minería.
+## Fabián Rodríguez Orellana
 
-## 🎯 Mis intereses y competencias
-He completado un bootcamp de ciencia de datos, donde adquirí habilidades clave en aprendizaje automático e inteligencia artificial. Estas herramientas me permiten analizar grandes volúmenes de datos y descubrir patrones útiles para la toma de decisiones más informadas. Estoy particularmente interesado en aplicar estas tecnologías para mejorar la eficiencia operativa y promover un crecimiento sostenible en el sector minero.
+**Ingeniero Civil en Minas · Análisis de datos y gestión operacional**
 
-Mis habilidades incluyen:
-- Análisis de datos y desarrollo de KPIs
-- Automatización de tareas
-- Modelos de machine learning y procesamiento de datos
-- Visualización de datos y desarrollo de dashboards interactivos
-- Despliegue de modelos
+Trabajo en la intersección entre operación minera y datos: construyo herramientas que reemplazan planillas por sistemas trazables, y traduzco datos de producción en decisiones de gestión. Actualmente curso el Magíster en Minería de la Universidad de Chile.
 
-## 🚀 Mi objetivo
-Mi objetivo es integrar el poder de la ciencia de datos con el conocimiento en minería para desarrollar soluciones innovadoras que impulsen el crecimiento y la eficiencia en la industria. Creo firmemente que la combinación de tecnología y datos puede abrir nuevas oportunidades y mejorar los procesos en sectores tradicionales.
+Lo que me diferencia no es solo el stack técnico, sino entender el proceso que hay detrás de los datos — por qué un tiempo de ciclo se dispara, qué significa una diferencia de inventario, dónde está el cuello de botella real de una operación.
 
-## 📈 Proyectos destacados
-En mi GitHub, puedes explorar algunos de los proyectos en los que he trabajado:
+---
 
-Proyecto 1: Desarrollo de un modelo de machine learning para recomendaciones de películas mediante analisis de sentimiento.
+### 🔧 Stack
 
-Proyecto 2: Creación de un dashboard interactivo para entender el contexto de la cobertura de internet a nivel del territorio nacional argentino.
+**Datos y análisis** · Python (Pandas, NumPy, scikit-learn) · SQL / MySQL · Jupyter
+**Visualización** · Power BI · Streamlit · Matplotlib · Seaborn
+**Orquestación y cloud** · Apache Airflow · GCP (BigQuery, Cloud Storage, Cloud Composer) · AWS (Lambda, S3, SAM, CloudWatch) · Docker · FastAPI · Git
+**Minería** · Phase2 · Rocscience · 3DEC · Vulcan · GSLIB · SAP
 
-Proyecto 3: Automatización de tareas para el desarrollo de un Análisis de sentimiento en reseñas de clientes de plataformas como Google Maps y Yelp con el fin de brindar un sistema de recomendaciones de negocios en Estados Unidos. Diseño y construcción de un Dashboard interactivo para los dueños de los negocios que busquen conocer sus indicadores de rendimiento como también comparar el mundo de la categoría en que se encuentran.
+---
 
-## 💼 ¿Colaboramos?
-Estoy siempre en busca de oportunidades para aplicar mis conocimientos en ciencia de datos y colaborar en proyectos que busquen transformar y mejorar industrias tradicionales con tecnología avanzada. Si te interesa trabajar conmigo, no dudes en contactarme a través de LinkedIn o correo electrónico.
+### 📊 Proyectos destacados
 
-Correo electrónico: farodriguezorellana@gmail.com
-Teléfono: +56976565137
+**[Sistema de Control de Inventario y Costos — Bodega Minera](https://github.com/farodd/proyecto-inventario)**
+Reemplazo de una gestión basada en planillas por una aplicación con base de datos única, formularios validados y tablero de seguimiento presupuestario. Llevó la ejecución presupuestaria del 103% al 99,9% sobre 5,8 MMUSD y redujo los errores de registro en un 85%.
+`Python` `SQLite` `Streamlit` `Power BI`
 
-¡Gracias por visitar mi perfil y espero que encuentres valor en los proyectos que comparto!
+**[Análisis de Rendimiento de Flota — Carguío y Transporte](https://github.com/farodd/Prueba_tecnica_andesite)**
+Análisis de 47 camiones CAEX y 4 palas sobre 17 meses de producción: ETL, EDA, ranking de desempeño, identificación de factores críticos y modelo predictivo de tiempos de ciclo (R² = 0,66).
+`Python` `scikit-learn` `Power BI`
+
+**[Análisis de Opiniones de Clientes — Yelp y Google Maps](https://github.com/farodd)**
+Pipeline ETL con carga incremental orquestada en Apache Airflow sobre Cloud Composer, almacenamiento en BigQuery y sistema de recomendación basado en análisis de sentimiento de reseñas, con dashboard de KPIs. Proyecto grupal bajo metodología Scrum.
+`Python` `Airflow` `BigQuery` `Cloud Storage` `Streamlit` `Power BI`
+
+**[Sistema de Recomendación de Películas — MLOps](https://github.com/farodd)**
+MVP de extremo a extremo: ETL sobre datos en bruto, modelo de recomendación por similitud y despliegue como API REST.
+`Python` `FastAPI` `Render`
+
+---
+
+### 🎯 En qué estoy
+
+- Magíster en Minería, Universidad de Chile — modelamiento de recursos y declaración de reservas bajo estándar NI 43-101.
+- Profundizando en ingeniería de datos aplicada a operaciones mineras.
+- Abierto a oportunidades donde el análisis de datos apoye decisiones operacionales reales.
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardrgz)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:farodriguezorellana@gmail.com)
