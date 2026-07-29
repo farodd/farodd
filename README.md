@@ -2,7 +2,7 @@
 
 **Ingeniero Civil en Minas · Análisis de datos y gestión operacional**
 
-Trabajo en la intersección entre operación minera y datos: construyo herramientas que reemplazan planillas por sistemas trazables, y traduzco datos de producción en decisiones de gestión. Actualmente curso el Magíster en Minería de la Universidad de Chile.
+Trabajo en la intersección entre operación minera y ciencia de datos: construyo herramientas que reemplazan planillas por sistemas trazables, y aplico modelamiento estadístico a datos de producción y caracterización de yacimientos. Actualmente curso el Magíster en Minería de la Universidad de Chile.
 
 Lo que me diferencia no es solo el stack técnico, sino entender el proceso que hay detrás de los datos — por qué un tiempo de ciclo se dispara, qué significa una diferencia de inventario, dónde está el cuello de botella real de una operación.
 
@@ -10,7 +10,8 @@ Lo que me diferencia no es solo el stack técnico, sino entender el proceso que 
 
 ### 🔧 Stack
 
-**Datos y análisis** · Python (Pandas, NumPy, scikit-learn) · SQL / MySQL · Jupyter
+**Datos y análisis** · Python (Pandas, NumPy, SciPy, scikit-learn) · SQL / MySQL · Jupyter
+**Modelamiento** · Geoestadística (kriging, simulación) · Cópulas · Modelos predictivos
 **Visualización** · Power BI · Streamlit · Matplotlib · Seaborn
 **Orquestación y cloud** · Apache Airflow · GCP (BigQuery, Cloud Storage, Cloud Composer) · AWS (Lambda, S3, SAM, CloudWatch) · Docker · FastAPI · Git
 **Minería** · Phase2 · Rocscience · 3DEC · Vulcan · GSLIB · SAP
@@ -18,6 +19,10 @@ Lo que me diferencia no es solo el stack técnico, sino entender el proceso que 
 ---
 
 ### 📊 Proyectos destacados
+
+**Predicción probabilística del Bond Work Index mediante proxies geoestadísticos y D-vine cópulas** · *tesis de magíster, en curso*
+Modelamiento de la incertidumbre asociada al índice de trabajo de Bond a partir de variables proxy, usando cópulas D-vine para capturar dependencias no lineales entre variables geometalúrgicas. El objetivo es entregar predicciones con distribución de probabilidad en lugar de un valor puntual, para planificación de procesamiento.
+`Python` `Geoestadística` `Cópulas`
 
 **[Sistema de Control de Inventario y Costos — Bodega Minera](https://github.com/farodd/proyecto-inventario)**
 Reemplazo de una gestión basada en planillas por una aplicación con base de datos única, formularios validados y tablero de seguimiento presupuestario. Llevó la ejecución presupuestaria del 103% al 99,9% sobre 5,8 MMUSD y redujo los errores de registro en un 85%.
@@ -39,8 +44,8 @@ MVP de extremo a extremo: ETL sobre datos en bruto, modelo de recomendación por
 
 ### 🎯 En qué estoy
 
-- Magíster en Minería, Universidad de Chile — modelamiento de recursos y declaración de reservas bajo estándar NI 43-101.
-- Profundizando en ingeniería de datos aplicada a operaciones mineras.
+- Terminando la tesis de Magíster en Minería (Universidad de Chile) sobre predicción probabilística de variables geometalúrgicas.
+- Profundizando en ciencia de datos y modelamiento estadístico aplicado a operaciones mineras.
 - Abierto a oportunidades donde el análisis de datos apoye decisiones operacionales reales.
 
 ---
