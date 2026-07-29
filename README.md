@@ -44,7 +44,7 @@ MVP de extremo a extremo: ETL sobre datos en bruto, modelo de recomendación por
 
 ### 🎯 En qué estoy
 
-- Terminando la tesis de Magíster en Minería (Universidad de Chile) sobre predicción probabilística de variables geometalúrgicas.
+- Desarrollando la tesis de Magíster en Minería (Universidad de Chile) sobre predicción probabilística de variables geometalúrgicas.
 - Profundizando en ciencia de datos y modelamiento geoestadístico aplicado a operaciones mineras.
 - Abierto a oportunidades donde el análisis de datos apoye decisiones operacionales reales.
 
