@@ -32,11 +32,11 @@ Reemplazo de una gestión basada en planillas por una aplicación con base de da
 Análisis de 47 camiones CAEX y 4 palas sobre 17 meses de producción: ETL, EDA, ranking de desempeño, identificación de factores críticos y modelo predictivo de tiempos de ciclo (R² = 0,66).
 `Python` `scikit-learn` `Power BI`
 
-**[Análisis de Opiniones de Clientes — Yelp y Google Maps](https://github.com/farodd)**
+**[Análisis de Opiniones de Clientes — Yelp y Google Maps](https://github.com/farodd/Proyecto_google_yelp)**
 Pipeline ETL con carga incremental orquestada en Apache Airflow sobre Cloud Composer, almacenamiento en BigQuery y sistema de recomendación basado en análisis de sentimiento de reseñas, con dashboard de KPIs. Proyecto grupal bajo metodología Scrum.
 `Python` `Airflow` `BigQuery` `Cloud Storage` `Streamlit` `Power BI`
 
-**[Sistema de Recomendación de Películas — MLOps](https://github.com/farodd)**
+**[Sistema de Recomendación de Películas — MLOps](https://github.com/farodd/Proyecto_individual)**
 MVP de extremo a extremo: ETL sobre datos en bruto, modelo de recomendación por similitud y despliegue como API REST.
 `Python` `FastAPI` `Render`
 
@@ -45,7 +45,7 @@ MVP de extremo a extremo: ETL sobre datos en bruto, modelo de recomendación por
 ### 🎯 En qué estoy
 
 - Terminando la tesis de Magíster en Minería (Universidad de Chile) sobre predicción probabilística de variables geometalúrgicas.
-- Profundizando en ciencia de datos y modelamiento estadístico aplicado a operaciones mineras.
+- Profundizando en ciencia de datos y modelamiento geoestadístico aplicado a operaciones mineras.
 - Abierto a oportunidades donde el análisis de datos apoye decisiones operacionales reales.
 
 ---
